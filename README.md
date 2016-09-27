@@ -1,2 +1,2 @@
 # javascriptbook
-Exercises from the Javascript Jon Duckett book
+Exercises from the JavaScript Jon Duckett book
